@@ -1,0 +1,5 @@
+{
+  "name": "AI Support Chatbot",
+  "description": "A support chatbot powered by Gemini, trained on company-specific information to provide accurate and helpful answers to user queries.",
+  "requestFramePermissions": []
+}
